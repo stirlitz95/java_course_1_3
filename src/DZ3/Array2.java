@@ -60,7 +60,7 @@ public class Array2 {
                 sum += array[i][j];
             }
             System.out.println("Line " + i + ": " + sum/array[i].length);
-            System.out.println();
+
 
         }
     }
